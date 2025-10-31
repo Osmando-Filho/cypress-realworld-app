@@ -1,2 +1,2 @@
-loginanterior.spec.js
-test_debug.spec.js
+cypress/tests/e2e/loginanterior.spec.js
+cypress/tests/e2e/test_debug.spec.js
